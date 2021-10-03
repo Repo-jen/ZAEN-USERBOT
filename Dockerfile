@@ -4,7 +4,7 @@ FROM vckyouuu/geezprojects:buster
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b master https://github.com/vckyou/GeezProjects /home/vckyou/
+RUN git clone -b master https://github.com/Repo-jen/ZAEN-USERBOT /home/vckyou/
 RUN mkdir /home/vckyou/bin/
 WORKDIR /home/vckyou/
 
