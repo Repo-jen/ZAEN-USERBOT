@@ -101,7 +101,7 @@ async def repo_is_here(wannasee):
         "│                   ʀᴇᴘᴏ\n"
         "│       [⚡Memeq-project⚡](https://github.com/Vckyou/GeezProjects)\n"
         "├‒─‒──────────‒\n"
-        "│🔰 **ᴏᴡɴᴇʀ :** [Zaen](t.me/VckyouuBitch)\n"
+        "│🔰 **ᴏᴡɴᴇʀ :** [Zaen](t.me/mafia_tobatz)\n"
         "╰‒─‒──────────\n"
         "  𝗟𝗶𝗰𝗲𝗻𝘀𝗲 : [GPL-3.0 License](https://github.com/Repo-jen/ZAEN-USERBOT/blob/ZAEN-USERBOT/LICENSE)"
     )
