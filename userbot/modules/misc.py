@@ -99,11 +99,11 @@ async def repo_is_here(wannasee):
     await wannasee.edit(
         "╭‒─‒──────────‒─‒\n"
         "│                   ʀᴇᴘᴏ\n"
-        "│       [⚡Geez-Project⚡](https://github.com/Vckyou/GeezProjects)\n"
+        "│       [⚡Memeq-project⚡](https://github.com/Vckyou/GeezProjects)\n"
         "├‒─‒──────────‒\n"
-        "│🔰 **ᴏᴡɴᴇʀ :** [Geez](t.me/VckyouuBitch)\n"
+        "│🔰 **ᴏᴡɴᴇʀ :** [Zaen](t.me/VckyouuBitch)\n"
         "╰‒─‒──────────\n"
-        "  𝗟𝗶𝗰𝗲𝗻𝘀𝗲 : [GPL-3.0 License](https://github.com/Vckyou/Geez-UserBot/blob/Geez-UserBot/LICENSE)"
+        "  𝗟𝗶𝗰𝗲𝗻𝘀𝗲 : [GPL-3.0 License](https://github.com/Repo-jen/ZAEN-USERBOT/blob/ZAEN-USERBOT/LICENSE)"
     )
 
 
