@@ -99,7 +99,7 @@ async def repo_is_here(wannasee):
     await wannasee.edit(
         "╭‒─‒──────────‒─‒\n"
         "│                   ʀᴇᴘᴏ\n"
-        "│[⚡Memeq-project⚡](https://github.com/Repo-jen/ZAEN-USERBOT)\n"
+        "│[⚡Zaen-project⚡](https://github.com/Repo-jen/ZAEN-USERBOT)\n"
         "├‒─‒──────────‒\n"
         "│🔰 **ᴏᴡɴᴇʀ :** [Zaen](t.me/mafia_tobatz)\n"
         "╰‒─‒──────────\n"
