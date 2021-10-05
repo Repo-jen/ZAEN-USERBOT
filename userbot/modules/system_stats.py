@@ -241,7 +241,7 @@ async def amireallyalive(alive):
         f" ❍ `Telethon :` Ver {version.__version__} \n"
         f" ❍ `Python   :` Ver {python_version()} \n"
         f" ❍ `Branch   :` {UPSTREAM_REPO_BRANCH} \n"
-        f" ❍ `Bot Ver  :` {Bot-fer} \n"
+        f" ❍ `Bot Ver  :` {BOT_VER} \n"
         f" ❍ `Modules  :` {len(modules)} Modules \n"
         f"╭═───────╼⌘╾───────═ \n"
         f"┃[𝗥𝗲𝗽𝗼](https://github.com/Repo-jen/ZAEN-USERBOT)  |  [𝗦𝘂𝗽𝗽𝗼𝗿𝘁](t.me/Zaen_music)  |  "
