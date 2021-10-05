@@ -98,7 +98,7 @@ async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
         "╭‒─‒──────────‒─‒\n"
-        "│                   ʀᴇᴘᴏ\n"
+        "│              ʀᴇᴘᴏ\n"
         "│[⚡Zaen-project⚡](https://github.com/Repo-jen/ZAEN-USERBOT)\n"
         "├‒─‒──────────‒\n"
         "│🔰 **ᴏᴡɴᴇʀ :** [Zaen](t.me/mafia_tobatz)\n"
