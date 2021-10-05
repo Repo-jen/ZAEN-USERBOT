@@ -234,7 +234,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"╭═──────╼═⌘═╾───────═\n"
-        f"┃.     ⚠️𝗠𝗲𝗺𝗲𝗾-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 ⚠️\n"
+        f"┃         ⚠️𝗭𝗮𝗲𝗻-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 ⚠️\n"
         f"╰═─────╼══⌘══╾─────═ \n"
         f" ❍ `Name     :` {DEFAULTUSER} \n"
         f" ❍ `Username :` @{user.username} \n"
